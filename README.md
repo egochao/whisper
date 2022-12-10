@@ -141,3 +141,5 @@ Please use the [🙌 Show and tell](https://github.com/openai/whisper/discussion
 ## License
 
 The code and the model weights of Whisper are released under the MIT License. See [LICENSE](LICENSE) for further details.
+
+SOmething
